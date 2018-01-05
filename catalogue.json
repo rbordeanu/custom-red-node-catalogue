@@ -1,5 +1,5 @@
 {
-	"name": "Node-RED Community catalogue",
+	"name": "UXP Nodes Catalogue for Node-RED",
 	"updated_at": "2018-01-05T11:15:03.717Z",
 	"modules": [{
 		"description": "A Node-RED to send alerts to one or more MapexAlerts users",
