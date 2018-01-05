@@ -1,0 +1,40 @@
+{
+	"name": "Node-RED Community catalogue",
+	"updated_at": "2018-01-05T11:15:03.717Z",
+	"modules": [{
+		"description": "A Node-RED to send alerts to one or more MapexAlerts users",
+		"keywords": ["node-red", "mapex", "alert", "mapex-alert"],
+		"updated_at": "2018-01-05T10:56:31.427Z",
+		"id": "node-red-mapex-alert",
+		"version": "0.0.2",
+		"url": "http://flows.nodered.org/node/node-red-mapex-alert"
+	}, {
+		"description": "A Node-RED node Safe Queue",
+		"keywords": ["node-red"],
+		"updated_at": "2018-01-04T20:04:50.615Z",
+		"id": "node-red-contrib-safe-queue",
+		"version": "1.0.0",
+		"url": "http://flows.nodered.org/node/node-red-contrib-safe-queue"
+	}, {
+		"description": "Setup and support for Streampunk Media's Node-RED nodes",
+		"keywords": ["node-red"],
+		"updated_at": "2018-01-04T19:22:04.744Z",
+		"id": "node-red-contrib-dynamorse-core",
+		"version": "0.1.20",
+		"url": "http://flows.nodered.org/node/node-red-contrib-dynamorse-core"
+	}, {
+		"description": "Parse KashiwaGeeks Payload",
+		"keywords": ["node-red", "parsekgp"],
+		"updated_at": "2018-01-04T14:50:58.931Z",
+		"id": "node-red-contrib-parse-kgp",
+		"version": "0.3.1",
+		"url": "http://flows.nodered.org/node/node-red-contrib-parse-kgp"
+	}, {
+		"description": "REDBot a Chat bot for a full featured chat bot for Telegram**, Facebook Messenger and Slack. Almost no coding skills required",
+		"keywords": ["node-red"],
+		"updated_at": "2018-01-04T12:23:11.788Z",
+		"id": "node-red-contrib-chatbot",
+		"version": "0.9.10",
+		"url": "http://flows.nodered.org/node/node-red-contrib-chatbot"
+	}]
+}
