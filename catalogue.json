@@ -2,11 +2,11 @@
 	"name": "UXP Nodes Catalogue for Node-RED",
 	"updated_at": "2018-01-05T11:15:03.717Z",
 	"modules": [{
-		"description": "A Node-RED to send alerts to one or more MapexAlerts users",
+		"description": "A Node-RED Node module for interacting with CSM",
 		"keywords": ["node-red", "uxp-node-red"],
 		"updated_at": "2017-12-20T10:56:31.427Z",
 		"id": "@uxp-tools/csm-provider",
-		"version": "0.0.2",
+		"version": "1.1.0",
 		"url": "http://uk1cslalm0011.misys.global.ad:8081/package/@uxp-tools/csm-provider"
 	}]
 }
