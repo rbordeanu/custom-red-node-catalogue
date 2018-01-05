@@ -1,1 +1,1 @@
-# custom-red-node-catalogue
+# UXP Node Catalogue for Node-RED
