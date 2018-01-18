@@ -1,12 +1,61 @@
 {
-	"name": "UXP Nodes Catalogue for Node-RED",
-	"updated_at": "2018-01-05T11:15:03.717Z",
-	"modules": [{
-		"description": "A Node-RED Node module for interacting with CSM",
-		"keywords": ["node-red", "uxp-node-red"],
-		"updated_at": "2017-12-20T10:56:31.427Z",
-		"id": "@uxp-tools/csm-provider",
-		"version": "1.1.0",
-		"url": "http://uk1cslalm0011.misys.global.ad:8081/package/@uxp-tools/csm-provider"
-	}]
+  "name": "Finastra UXP Node-RED nodes catalogue",
+  "updated_at": "2018-01-18T16:12:28.749Z",
+  "modules": [
+    {
+      "id": "@uxp-tools/csm-provider",
+      "version": "1.1.0",
+      "description": "Node Red module for interacting with CSM",
+      "keywords": [
+        "node-red",
+        "uxp-node-red"
+      ],
+      "updated_at": "2017-12-18T17:32:06.153Z",
+      "url": "http://uk1cslalm0011.misys.global.ad:8080/@uxp-tools/csm-provider"
+    },
+    {
+      "id": "@uxp-tools/mb-http",
+      "version": "1.0.3",
+      "description": " Extra nodes for Node Red",
+      "keywords": [
+        "node-red",
+        "misysboard"
+      ],
+      "updated_at": "2017-12-18T17:33:06.489Z",
+      "url": "http://uk1cslalm0011.misys.global.ad:8080/@uxp-tools/mb-http"
+    },
+    {
+      "id": "@uxp-tools/mb-notifier",
+      "version": "1.0.1",
+      "description": " Extra nodes for Node Red",
+      "keywords": [
+        "node-red",
+        "misysboard"
+      ],
+      "updated_at": "2017-12-18T17:32:15.068Z",
+      "url": "http://uk1cslalm0011.misys.global.ad:8080/@uxp-tools/mb-notifier"
+    },
+    {
+      "id": "@uxp-tools/misysboard-nodered-nodes",
+      "version": "1.0.4",
+      "description": " Extra nodes for Node Red",
+      "keywords": [
+        "node-red",
+        "misysboard"
+      ],
+      "updated_at": "2017-12-18T17:33:03.546Z",
+      "url": "http://uk1cslalm0011.misys.global.ad:8080/@uxp-tools/misysboard-nodered-nodes"
+    },
+    {
+      "id": "@uxp-tools/node-red-cargo-transform",
+      "version": "1.0.0",
+      "description": "Node-RED nodes to transform data from Cargo to Misysboard format",
+      "keywords": [
+        "node-red",
+        "misysboard"
+      ],
+      "updated_at": "2017-12-18T17:32:18.013Z",
+      "url": "http://uk1cslalm0011.misys.global.ad:8080/@uxp-tools/node-red-cargo-transform"
+    }
+  ]
 }
